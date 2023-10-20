@@ -1,5 +1,6 @@
-# site-de-musicas
-Aqui, crio um site responsivo com HTML, CSS e JavaScript. Este site é uma simulação de uma plataforma de música online, onde existem reprodutores fictícios para as músicas.
+# Descrição
+
+Neste projeto, desenvolvo um site altamente responsivo utilizando as linguagens HTML, CSS e JavaScript. Trata-se de uma simulação de uma plataforma de música online, onde são apresentados reprodutores fictícios para as faixas musicais. Através da combinação de técnicas de design e programação, o site oferece uma experiência imersiva, permitindo aos usuários explorar e interagir com a interface de reprodução de música de forma intuitiva e envolvente.
 
 
 
